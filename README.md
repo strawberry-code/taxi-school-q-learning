@@ -14,6 +14,14 @@ Enjoy! :)
  - magenta `RGBY` the destination of the passenger
  - `:` viable road
  
+## Example
+
+From this image:
+
+![./game_start.png](./game_start.png)
+
+the game is done when the taxy cab picks up the passenger (blue Y) and drops it in its destination (magenta B).
+
 ## Usage
 
 There are two strategies:
